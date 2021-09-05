@@ -2,3 +2,4 @@
 textsummarizationenv
 facialexpressiondetectionenv
 archive
+*.pyc
